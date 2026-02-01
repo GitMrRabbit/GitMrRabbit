@@ -64,14 +64,6 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; margin-top: 20px; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center; gap: 8px; margin: 10px 0;">
-    <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="60" height="60">
-    <div>
-      <a href="https://t.me/l_s_e_r_g_e_y_I" style="text-decoration: none;">@l_s_e_r_g_e_y_I</a>
-    </div>
-  </div>
-
-  ---
   
   <div style="display: flex; align-items: center; gap: 8px; margin: 10px 0;">
     <img src="https://www.svgrepo.com/show/375840/mail.svg" width="50" height="50">
